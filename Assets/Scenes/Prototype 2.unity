@@ -257,9 +257,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalPrefabs:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8912945598057521876, guid: e9ae130289741e04a92c7412db96feb0, type: 3}
+  - {fileID: 3389116143019318677, guid: 8cc3cfe70b08ec745a30d6c9d4dc8210, type: 3}
+  - {fileID: 2622606165749975318, guid: 17a047abd2549774cb5a048218a2f88b, type: 3}
 --- !u!1 &425805626
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,8 +632,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   horizontalInput: 0
-  speed: 10
-  xRange: 10
+  speed: 20
+  xRange: 15
   projectilePrefab: {fileID: 3034701405196547747, guid: 283e620e33c65bc4687bc8a3055d862b,
     type: 3}
 --- !u!1001 &1978601985
